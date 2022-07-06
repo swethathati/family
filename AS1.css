@@ -1,0 +1,11 @@
+.colour{
+    color: antiquewhite;
+}
+
+.heading{
+    text-align: center;
+}
+
+.colour:hover{
+    color: rgb(255, 255, 255);
+}
